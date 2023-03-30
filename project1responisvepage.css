@@ -1,0 +1,576 @@
+
+@media only screen and (max-width:1280px){
+    .container{
+        max-width: 1250px;
+        padding: 0px 15px;
+    }
+}
+
+
+
+
+
+
+
+@media only screen and (min-width:992px) and (max-width:1199px){
+        .container{
+            max-width: 960px;
+        }
+       .menu{
+        width: 58%;
+       }
+       .feature{
+        width: 48%;
+        margin-bottom: 2%;
+        margin-right: 4%;
+       }
+       .web21{
+        min-height: 290px;
+       }
+       .feature:nth-child(2){
+        margin-right: 0px;
+       }
+    }
+
+    @media only screen and (max-width:1024px){
+        .container{
+            max-width: 100%;
+        }
+        .menu{
+            width: 58%;
+        }
+    }
+
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px){
+        .container{
+            max-width:720px;
+            
+        } 
+        .body{
+            font-size: 17px;
+        }
+        .menu{
+            width: 69%;
+        }
+        .menu a{
+            font-size: 16px;
+        }
+        .logo img{
+            width: 200px;
+        }
+        .banner1 h1{
+            font-size: 29px;
+        }
+        .form h3{
+            font-size: 20px;
+        }
+        .form-control{
+            font-size: 11px;
+        }
+        .form label {
+            font-size: 15px;
+        }
+        .feature {
+            width: 48%;
+            margin-bottom: 2%;
+            margin-right: 4%;
+        }
+        .web21{
+            width: 46%;
+        }
+        .a2nskills{
+            padding-top: 30px;   
+        }
+        .benefits-content{
+            width: 100%;
+        }
+        .benefits-img{
+            width: 100%;
+        }
+        .r-img img{
+            width: 50%;
+        }
+        .web21:nth-child(2){
+            margin-right: 0px;
+        }
+        .web21:nth-child(6){
+            margin-right: 0px;
+        }
+        .web21{
+            margin-right: 8%;
+        } 
+        .companies-img{
+            width: 100%;
+        }
+        .feature:nth-child(2){
+            margin-right: 0px;
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width:576px) and (max-width:767px){
+        .container{
+            max-width: 100%;
+            padding: 0px 20px;
+        }
+        body{
+            font-size: 17px !important;
+        }
+        .logo img{
+            width: 137px;
+        }
+        .menu {
+            width: 71%;
+        }
+
+        .menu img {
+            width: 20px;
+        }
+        .menu a{
+            font-size: 15px;
+        }
+        .banner1 h1 {
+            font-size: 24px;
+        }
+        .form h3 {
+            font-size: 20px;
+        }
+        .form label {
+            font-size: 12px;
+        }
+        .form-control{
+            font-size: 12px;
+        }
+        *p{
+            font-size: 17px;
+        }
+        .banner1 h2{
+            font-size: 24px;
+        }
+        .btnstyle{
+            padding: 5px 20px;
+            font-size: 15px;
+        }
+        .feature{
+            width: 48%;
+            margin-right: 4%;
+            margin-bottom: 4%;
+        }
+        .feature:nth-child(2){
+            margin-right: 0px;
+        }
+        .icon {
+            width: 18%;
+        }
+        .content p{
+            font-size: 15px;
+        }
+        .content h4{
+            font-size: 16px;
+        }
+        .web21{
+            width: 46%;
+            margin-right: 8%;
+        }
+        .webdesign1 h2{
+            font-size:25px;
+        }
+        .web21:nth-child(2){
+            margin-right: 0px;
+        }
+        .web21:nth-child(6){
+            margin-right: 0px;
+        }
+        .web21:nth-child(7){
+            margin-bottom: 0px;
+        }
+        .web21:nth-child(8){
+            margin-bottom: 0px;
+        }
+        .job-in h2 {
+            font-size: 25px;
+        }
+        .job-in p{
+            font-size: 17px;
+        }
+        .job-in li {
+            font-size: 17px;
+        }
+        .a2nskills{
+            background-image: url(../Images/a2n\ skills\ image2\ responsive.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+        .a2nskills h3{
+            font-size: 26px;
+        }
+        .a2nskills h4{
+            font-size: 18px;
+        }
+        .a2nskills p {
+            font-size: 18px;
+        }
+        .btnstyle1{
+            font-size: 16px;
+        }
+        .benefits-content{
+            width: 100%;
+        }
+        .benefits-img{
+            width: 100%;
+        }
+        .text-center-h2{
+            font-size: 25px;
+        }
+        .companies-img{
+            width: 90%;
+        }
+        .text-center-p {
+            padding: 0px 50px;
+        }
+        .r-img img{
+            width: 50%;
+        }
+        .visit-address h2{
+            font-size: 23px;
+        }
+        .btnstyled {
+            font-size: 16px;
+        }
+        .banner1{
+            width: 60%;
+        }
+        .banner2{
+            width: 40%;
+        }
+        .banner1 p{
+            font-size: 17px;
+        }
+        .banner1 li {
+            font-size: 17px;
+            line-height: 1.5;
+        }
+        .benefits-content h2{
+            font-size: 24px;
+        }
+        .benefits-content li {
+            font-size: 17px;
+        }
+        .visit-address p{
+            font-size: 16px;
+        }
+    }
+
+
+   
+    @media only screen and (max-width:653px){
+        .container{
+            max-width: 100%;
+        }
+        .logo img{
+            width: 170px;
+        }
+        .menu{
+            width: 72%;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:575px){
+    .container{
+        max-width: 100%;
+        padding: 0px 15px;
+    }
+    body{
+        font-size: 19px;
+        font-family: 'Montserrat', sans-serif;
+    }
+    .logo{
+        width: 100%;
+        text-align: center;
+    }
+    .logo img{
+        width: 200px;
+        float: none;
+    }
+    .menu{
+        width: 100%;
+        text-align: center;
+        padding: 0px;
+    }
+    .menu img {
+        width: 19px;
+    }
+    .menu a{
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    .menu ul li{
+        padding: 0px;
+    }
+    .banner1 {
+        width: 100%;
+        padding-right: 0px;
+        text-align: justify;
+    }
+    .banner2 {
+        width: 100%;
+    }
+    .banner1 li{
+        line-height: 1.6;
+        text-align: justify;
+    }
+    
+    .banner1 h1{
+        font-size: 22px
+    }
+    .banner1 h2{
+        font-size: 22px;
+    }
+    .btnstyle{
+        font-size: 14px;
+        padding: 5px 15px;
+        margin-bottom: 15px;
+    }
+    .form h3{
+        font-size: 22px;
+    }
+    .webdesign1 h2{
+        font-size: 22px;
+    }
+    .feature {
+        width: 100%;
+        margin-bottom: 8%;
+    }
+    .content h4{
+        font-size: 17px;
+    }
+    .icon {
+        width: 16%;
+    }
+    .webdesign{
+        padding: 0px;
+    }
+    .web21 {
+        width: 100%;
+    }
+    .job-in h2 {
+        font-size: 22px;
+    }
+    .webdesign1 p{
+        text-align: justify;
+    }
+    .job-in{
+        padding: 50px 0px;
+    }
+    .job-in li{
+        line-height: 1.5;
+        margin-left: 35px;
+    }
+    .job-in h4 {
+        margin-left: 20px;
+    }
+    .jobs {
+        padding: 50px 15px;
+    }
+    .a2nskills{
+        background-repeat: no-repeat;
+        padding: 30px;
+        background-color: #1C3288;
+        background-image: none;
+    }
+
+    .a2nskills h3 span {
+        font-size: 18px;
+    }
+    .a2nskills h4{
+        font-size: 18px;
+    }
+    .a2nskills p{
+        font-size: 17px;
+    }
+    .btnstyle1{
+        margin-left: -12px;
+        padding: 5px 15px;
+        font-size: 15px;
+    }
+    .benefits-content{
+        width: 100%;
+    }
+    .benefits-content h2 {
+        font-size: 25px;
+    }
+    .benefits-content li{
+        text-align: justify;
+    }
+    .benefits-img{
+        width: 100%;
+    }
+    .text-center-h2{
+        font-size: 22px;
+    }
+    .text-center-p{
+        padding: 0px;
+        margin: 0px;
+        text-align: justify;
+    }
+    .companies-img {
+        width: 100%;
+    }
+    .r-img img{
+        width: 100%;
+    }
+    .visit-address h2 {
+        font-size: 20px;
+    }
+    .visit-address p{
+        font-size: 17px;
+    }
+    .btnstyled {
+        font-size: 15px;
+    }
+    .footer1 {
+        width: 100%;
+        text-align: center;
+    }
+    .footer2 {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:412px){
+    .container{
+        max-width: 100%;
+        padding: 0px 15px;
+    }
+    .logo img{
+        width:180px
+    }
+    .menu a{
+        font-size: 14px;
+    }
+}
+
+
+
+
+@media only screen and (max-width:280px){
+    .container{
+        max-width:100%
+    }
+    body{
+        font-size: 16px;
+    }
+    .banner1 h1{
+        font-size: 19px;
+    }
+    .banner1 p{
+        font-size: 16px;
+    }
+    .banner1 h2{
+        font-size: 20px;
+    }
+    .banner1 li{
+        font-size: 16px;
+    }
+    .btnstyle {
+        font-size: 10px;
+    }
+    .form h3{
+        font-size: 20px;
+    }
+    .form label{
+        font-size: 15px;
+    }
+    .form-control{
+        font-size: 12px;
+    }
+    .content p {
+        font-size: 14px;
+    }
+    .content h4{
+        font-size: 13px;
+    }
+    .webdesign1 h2{
+        font-size: 20px;
+    }
+    .job-in h2{
+        font-size: 20px;
+    }
+    .job-in li{
+        font-size: 16px;
+    }
+    .a2nskills h3{
+        font-size: 20px;
+    }
+    .a2nskills h4{
+        font-size: 16px;
+    }
+    .a2nskills p{
+        font-size: 14px;
+    }
+    .btnstyle1 {
+        font-size: 10px;
+    }
+    .benefits-content h2{
+        font-size: 20px;
+        line-height: normal;
+    }
+    .benefits-content li{
+        line-height: 30px;
+    }
+    .text-center-h2 {
+        line-height: normal;
+        font-size: 20px;
+    }
+    .visit-address h2 {
+        font-size: 18px;
+    }
+    .visit-address p{
+        font-size: 13px;
+    }
+    .btnstyled {
+        font-size: 12px;
+    }
+    .footer1{
+        font-size: 14px;
+    }
+    .footer2{
+        font-size: 14px;
+    }
+}
+
+
+    
